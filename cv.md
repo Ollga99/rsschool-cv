@@ -20,6 +20,9 @@ I am able to take instructions from all levels and build up good working relatio
 * CSS	
 * Git
 
+## Code samples
+
+
 ## Education
 
 * **2016-2020**  Belarus State Economics University (BSEU), Faculty of International Economic Relations
