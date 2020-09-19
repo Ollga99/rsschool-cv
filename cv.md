@@ -23,3 +23,6 @@ I am able to take instructions from all levels and build up good working relatio
 ## Education
 
 * **2016-2020**  Belarus State Economics University (BSEU), Faculty of International Economic Relations
+
+## English
+* Pre-Intermediate
